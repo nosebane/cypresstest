@@ -1,0 +1,13 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "index.js",
+  "repository": "git@github.com:nosebane/cypresstest.git",
+  "author": "ikhsandwidanu <ikhsan.dwi.danu@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.2.0",
+    "typescript": "^5.2.2"
+  }
+}
